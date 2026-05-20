@@ -1,6 +1,6 @@
 # CTF-Agent 🔐
 
-> 基于 DeepSeek R1 长链推理的 CTF 二进制自动分析工具
+> 基于 DeepSeek v4 pro 长链推理的 CTF 二进制自动分析工具
 
 ## 项目简介
 
